@@ -4,7 +4,7 @@
 
 Welcome to my Software Quality Assurance portfolio.
 
-I am currently developing my skills in software testing through hands-on projects focused on manual testing, AI response evaluation, bug reporting, test case creation, and quality analysis.
+I am building practical QA experience through hands-on projects focused on manual testing, test case creation, bug documentation, AI response evaluation, and application quality analysis.
 
 My background in construction has helped me develop strong attention to detail, problem-solving skills, teamwork, and the ability to follow technical processes accurately.
 
@@ -13,65 +13,69 @@ My background in construction has helped me develop strong attention to detail, 
 ## Skills
 
 ### QA Testing
-- Manual Testing
-- Functional Testing
-- Regression Testing
-- Test Case Creation
-- Bug Reporting
-- Quality Documentation
 
-### AI Quality Evaluation
-- AI Response Analysis
-- Instruction Following Evaluation
-- Accuracy Review
-- Context Testing
-- User Experience Analysis
+* Manual Testing
+* Functional Testing
+* Regression Testing
+* UI Validation
+* Test Case Creation
+* Bug Reporting
+* Defect Documentation
+* Quality Analysis
 
-### Tools
-- GitHub
-- Jira
-- Excel
-- QA Documentation
+### Tools & Platforms
+
+* GitHub Documentation
+* Jira Workflow Basics
+* Excel Test Documentation
+* AI Response Evaluation
 
 ---
 
 ## Projects
 
-### 01 - SauceDemo Manual Testing
+### 01 - SauceDemo Manual Testing Project
 
-Manual QA testing project focused on testing an e-commerce web application.
+Manual QA testing project focused on validating a web application using structured testing processes.
 
-Testing included:
-- Login functionality
-- Shopping cart workflow
-- Checkout process
-- Navigation testing
-- UI validation
+Testing performed:
 
-Deliverables:
-- Test Cases
-- Bug Reports
-- Test Summary Report
+* Login functionality testing
+* Shopping cart validation
+* Checkout workflow testing
+* Navigation testing
+* UI review
+* Bug identification and reporting
 
+Documentation included:
 
-### 02 - AI Response Evaluation
+* Test cases
+* Bug reports
+* QA summary report
 
-AI Quality Assurance project focused on evaluating AI-generated responses using structured testing methods.
+---
 
-Evaluation included:
-- Response accuracy
-- Instruction following
-- Context retention
-- Communication clarity
-- User experience improvements
+### 02 - AI Response Evaluation Project
 
-Deliverables:
-- AI Response Test Cases
-- AI Evaluation Reports
-- AI Test Summary Report
+AI quality evaluation project focused on analyzing AI-generated responses using structured review criteria.
+
+Evaluation areas:
+
+* Response accuracy
+* Instruction following
+* Context understanding
+* User expectation alignment
+* Consistency of responses
+* Quality improvement recommendations
+
+Documentation included:
+
+* AI evaluation test cases
+* Response evaluation reports
+* Summary report
 
 ---
 
 ## Career Goal
 
-I am looking for an opportunity to continue growing as a QA Tester while applying my analytical thinking, attention to detail, and willingness to continuously learn new technologies.
+My goal is to continue growing in Quality Assurance, software testing, and AI evaluation while applying my attention to detail and problem-solving mindset to help improve digital products.
