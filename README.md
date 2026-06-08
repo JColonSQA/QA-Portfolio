@@ -1,9 +1,10 @@
 # Javier Colon
+
 ## Junior QA Tester Portfolio
 
 Welcome to my Software Quality Assurance portfolio.
 
-I am currently developing my skills in software testing through hands-on projects focused on manual testing, bug reporting, test case creation, and application quality validation.
+I am currently developing my skills in software testing through hands-on projects focused on manual testing, AI response evaluation, bug reporting, test case creation, and quality analysis.
 
 My background in construction has helped me develop strong attention to detail, problem-solving skills, teamwork, and the ability to follow technical processes accurately.
 
@@ -15,66 +16,62 @@ My background in construction has helped me develop strong attention to detail, 
 - Manual Testing
 - Functional Testing
 - Regression Testing
-- Smoke Testing
-- Exploratory Testing
 - Test Case Creation
 - Bug Reporting
+- Quality Documentation
+
+### AI Quality Evaluation
+- AI Response Analysis
+- Instruction Following Evaluation
+- Accuracy Review
+- Context Testing
+- User Experience Analysis
 
 ### Tools
-- Jira
 - GitHub
-- Chrome DevTools
+- Jira
 - Excel
-
-### Currently Learning
-- SQL
-- Python
-- Automation Testing
+- QA Documentation
 
 ---
 
-## QA Projects
+## Projects
 
-### SauceDemo Manual Testing Project
+### 01 - SauceDemo Manual Testing
 
-Tested a demo e-commerce web application by creating and executing manual test scenarios.
+Manual QA testing project focused on testing an e-commerce web application.
 
-Testing areas:
-
+Testing included:
 - Login functionality
-- User authentication
 - Shopping cart workflow
 - Checkout process
-- Navigation
+- Navigation testing
 - UI validation
 
-Created:
-
+Deliverables:
 - Test Cases
 - Bug Reports
 - Test Summary Report
 
+
+### 02 - AI Response Evaluation
+
+AI Quality Assurance project focused on evaluating AI-generated responses using structured testing methods.
+
+Evaluation included:
+- Response accuracy
+- Instruction following
+- Context retention
+- Communication clarity
+- User experience improvements
+
+Deliverables:
+- AI Response Test Cases
+- AI Evaluation Reports
+- AI Test Summary Report
+
 ---
-### Mobile Application Testing Project
 
-Participated in testing a mobile application during development by identifying issues, validating features, and improving the overall user experience.
+## Career Goal
 
-Testing areas:
-
-- Mobile app functionality testing
-- User navigation flow
-- Feature validation
-- Video upload testing
-- UI behavior testing
-- Audio playback verification
-- Bug identification and documentation
-
-Created:
-
-- Bug Reports
-- Test Scenarios
-- Feature Testing Notes
-
-## Goal
-
-Seeking an entry-level QA Tester opportunity where I can continue learning, contribute to software quality, and grow in the technology industry.
+I am looking for an opportunity to continue growing as a QA Tester while applying my analytical thinking, attention to detail, and willingness to continuously learn new technologies.
